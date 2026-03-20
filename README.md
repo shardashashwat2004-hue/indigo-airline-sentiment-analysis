@@ -1,2 +1,2 @@
-# Indigo_Airline_Sentiment_Analysis_R
+# indigo-airline-sentiment-analysis
 Sentiment analysis of airline customer reviews using R
