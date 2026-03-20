@@ -30,28 +30,28 @@ A few things that surprised me:
 ## Charts
 
 ### Sentiment Distribution
-![Sentiment Distribution](charts/1_sentiment_distribution.png)
+![Sentiment Distribution](1_sentiment_distribution.png)
 
 ### Star Rating Breakdown
-![Rating Distribution](charts/2_rating_distribution.png)
+![Rating Distribution](2_rating_distribution.png)
 
 ### Sentiment Over Time (Quarterly)
-![Sentiment Trend](charts/3_sentiment_trend.png)
+![Sentiment Trend](3_sentiment_trend.png)
 
 ### How Each Aspect Scored (Heatmap)
-![Aspect Heatmap](charts/4_aspect_heatmap.png)
+![Aspect Heatmap](4_aspect_heatmap.png)
 
 ### Aspect-wise Breakdown (Grouped Bar)
-![Aspect Grouped Bar](charts/5_aspect_grouped_bar.png)
+![Aspect Grouped Bar](5_aspect_grouped_bar.png)
 
 ### Keywords People Use (Positive vs Negative)
-![Keyword Frequency](charts/6_keyword_frequency.png)
+![Keyword Frequency](6_keyword_frequency.png)
 
 ### Average Rating per Aspect
-![Avg Rating by Aspect](charts/7_avg_rating_by_aspect.png)
+![Avg Rating by Aspect](7_avg_rating_by_aspect.png)
 
 ### How Sentiment Shifted Year by Year
-![Yearly Shift](charts/8_yearly_sentiment_shift.png)
+![Yearly Shift](8_yearly_sentiment_shift.png)
 
 ---
 
