@@ -1,6 +1,6 @@
 # indigo-airline-sentiment-analysis
 Sentiment analysis of airline customer reviews using R
-# ✈️ IndiGo Airlines — Customer Review Sentiment Analysis
+# ✈️ IndiGo Airlines Customer Review Sentiment Analysis
 
 A personal data project where I dug into what passengers are actually saying about IndiGo - India's largest airline by market share. Scraped and curated ~72 reviews from Skytrax, Trustpilot, TripAdvisor, and MouthShut spanning 2023–2025, then ran a full sentiment pipeline in R.
 
